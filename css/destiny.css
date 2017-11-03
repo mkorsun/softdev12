@@ -1,5 +1,22 @@
-html {
-    background-image: "traveler.jpg";
+body {
+    background-image: url("traveler.jpg");
     background-size: cover;
 }
-
+.wow {
+    color: gold;
+    text-align: center;
+}
+.vex {
+    background-image: url("atheon.jpg");
+    max-width: 560px;
+    height: 728px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: babyblue;
+    font-size: 40px;	       
+}
+a:visited{
+    color:skyblue;
+}
+    
+    
+			  
